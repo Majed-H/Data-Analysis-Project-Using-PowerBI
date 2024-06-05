@@ -6,7 +6,9 @@ This project aimed to analyze user engagement data to identify factors influenci
 Methodology:
 
 Data Collection & Cleaning: Used SQL queries to extract and clean user data from a simulated Neo-Bank database.
+
 Machine Learning: Built a churn prediction model using Python libraries (e.g., scikit-learn) to identify users at risk of churn.
+
 Data Visualization: Created interactive dashboards in Power BI to visualize key performance indicators (KPIs) related to user engagement and churn.
 
 Outcomes:
